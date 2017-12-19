@@ -1,0 +1,6 @@
+doc/
+bin/
+*.wav
+*.mf
+*.jar
+.idea/
