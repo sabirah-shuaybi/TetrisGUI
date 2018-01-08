@@ -4,3 +4,5 @@ bin/
 *.mf
 *.jar
 .idea/
+*.iml
+
